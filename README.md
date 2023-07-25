@@ -12,7 +12,7 @@ I have used the mentioned dataset for my thesis research. This dataset contains 
 ### Base paper
 The best deep learning model that could give the most feasible answer is proposed in [this paper](https://arxiv.org/pdf/1709.02656.pdf).
 
-And [here](https://github.com/spacelover1/deeppacket) is the implementation of the Deep Learning model.
+And [here](https://github.com/M0hammadL/DeepPacket) is the implementation of the Deep Learning model.
 
 
 ### Future work:
