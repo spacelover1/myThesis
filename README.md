@@ -1,6 +1,6 @@
 # My Masters Thesis
 
-## Title: Encrypted Network Traffic Classification
+## Title: Encrypted Network Traffic Classification using Deep Learning Methods
 
 
 Using **cross-entropy on network traffic** is the novelty of my work. 
